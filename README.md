@@ -1,4 +1,4 @@
-# teacher's day celebraton
+# teacher's day celebration
 
 hi I'm a stuent of [dhs] (https://www.dhs.sg)
 
