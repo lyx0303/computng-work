@@ -1,6 +1,6 @@
 # teacher's day celebration
 
-hi I'm a stuent of [dhs] (https://www.dhs.sg)
+hi I'm a student of [dhs] (https://www.dhs.sg)
 
 hobbies: sleep
          eat
